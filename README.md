@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Gregorio Diovani W</h1>
-<h3 align="center">A passionate full stack developer from Indonesia</h3>
+<h3 align="center">A passionate full stack developer </h3>
 
 <img align="right" alt="Coding" width="200" src="https://gregorio.my.id/assets/photo-7e653433.webp">
 

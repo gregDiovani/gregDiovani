@@ -22,7 +22,7 @@
 
 - 📄 Know about my experiences [https://gregorio.my.id/assets/Resume_gregorio_Diovani_Canva-0751558a.pdf](https://gregorio.my.id/assets/Resume_gregorio_Diovani_Canva-0751558a.pdf)
 
-- ⚡ Fun fact **Always BE passionate to learn new technology in IT**
+- ⚡ Fun fact **Always be passionate to learn new technology in IT**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
